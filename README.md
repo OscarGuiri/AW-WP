@@ -16,7 +16,7 @@ Mi objetivo con este plantilla era que sea simple, no quería fotos de fondo con
 
 5. El footer tiene el mismo estético que header. Le añadí unos logos de los federaciones de karate.
 
-6. Todo el contenido va al centro,  separando el titulo con un <hr>
+6. Todo el contenido va al centro,  separando el titulo con una linea
 
 
 ## LAS PAGINAS
