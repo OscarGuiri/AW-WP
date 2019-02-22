@@ -1,10 +1,10 @@
-#Mi plantilla
+# Mi plantilla
 
 Voy a intentar explicar lo que he echo a la pagina con mis palabras, quizá dejo cosas por que jugué mucho con este plantilla en los pasados semanas.
 
 Mi objetivo con este plantilla era que sea simple, no quería fotos de fondo con muchos colores. Quizá sea algo blando, pero opino que queda bien para la vista. 
 
-##EL CSS:
+## EL CSS:
 
 1. Creé un div grande para todo el contenido, le he dado un border negra con una pequeña curva. El header y el footer no tiene curva que pienso que parece guay la estética. 
 
@@ -19,7 +19,7 @@ Mi objetivo con este plantilla era que sea simple, no quería fotos de fondo con
 6. Todo el contenido va al centro,  separando el titulo con un <hr>
 
 
-##LAS PAGINAS
+## LAS PAGINAS
 
 1. Añadí dos paginas en la coluna de KATAS: El de junior y el de sinior, la cual añadí videos y un pequeño explicación de la importancia de ellas. 
 
@@ -29,6 +29,6 @@ Mi objetivo con este plantilla era que sea simple, no quería fotos de fondo con
 
 
 
-##Lo que me gustaria haber añadido:
+## Lo que me gustaria haber añadido:
 
 Me gustaria haber añadido un calendario en los eventos, y una mapa funcional de donde encontrar el club, pero no tuve el tiempo.
