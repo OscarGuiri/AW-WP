@@ -8,7 +8,7 @@ Mi objetivo con este plantilla era que sea simple, no quería fotos de fondo con
 
 1. Creé un div grande para todo el contenido, le he dado un border negra con una pequeña curva. El header y el footer no tiene curva que pienso que parece guay la estética. 
 
-2. Añadí un meno tipo "Drop down box" que cambia de color gradualmente cuando el cursor está encima. 
+2. Añadí un menu tipo "Drop down box" que cambia de color gradualmente cuando el cursor está encima. 
 
 3. Añadí un función de busqueda. Jugué un poco con la estética (Añadiendo una curva a los bordes) pero podía haber echo mejor. Funciona correctamente.
 
