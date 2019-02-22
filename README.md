@@ -12,7 +12,7 @@ Mi objetivo con este plantilla era que sea simple, no quería fotos de fondo con
 
 3. Añadí un función de busqueda. Jugué un poco con la estética (Añadiendo una curva a los bordes) pero podía haber echo mejor. Funciona correctamente.
 
-  4.En el header añadí el titulo de la pagina y un pequeño descripción de color blanco. El titulo es un enlace para la pagina pruncipal
+     4.En el header añadí el titulo de la pagina y un pequeño descripción de color blanco. El titulo es un enlace para la pagina pruncipal
 
 5. El footer tiene el mismo estético que header. Le añadí unos logos de los federaciones de karate.
 
