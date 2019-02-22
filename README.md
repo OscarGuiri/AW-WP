@@ -25,7 +25,7 @@ Mi objetivo con este plantilla era que sea simple, no quería fotos de fondo con
 
 2. Añadí una pagina de KUMUTE, la cual explico que es el Kumite en karate. 
 
-3. El about, la cual esplico de que trata la pagina web.
+3. El about, la cual explico de que trata la pagina web.
 
 
 
